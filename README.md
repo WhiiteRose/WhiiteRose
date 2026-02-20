@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/tom-roger-2a1a23274" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
     </a>
-    <a href="https://tomrogerportfolio.vercel.app" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
     </a>
     <a href="mailto:tomroger2108@icloud.com" target="_blank">
