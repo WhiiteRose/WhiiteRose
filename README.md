@@ -42,7 +42,7 @@
 <p align="left">
   • GitHub → <a href="https://github.com/WhiiteRose" target="_blank">WhiiteRose</a><br>
   • LinkedIn → <a href="https://www.linkedin.com/in/tom-roger-2a1a23274" target="_blank">tom-roger</a><br>
-  • Portfolio → <a href="https://tomrogerportfolio.vercel.app" target="_blank">tomrogerportfolio.vercel.app</a><br>
+  • Portfolio → <a target="_blank">In Development :)</a><br>
 </p>
 
 ---
